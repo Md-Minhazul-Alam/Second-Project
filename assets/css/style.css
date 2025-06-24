@@ -103,7 +103,7 @@ body {
 }
 .special-menu-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 20px;
 }
 .special-menu-item {
@@ -185,6 +185,54 @@ body {
   display: block;
   bottom: 10;
   margin-top: 50px;
+}
+/* Menu Section */
+.heading-section{
+  background: #240303;
+  color: #fff;
+  text-align: center;
+  margin-top: 90px;
+  padding: 60px 0;
+}
+.heading h1{
+  font-size: 60px;
+}
+.heading p{
+  font-size: 18px;
+}
+.menu-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 20px;
+}
+.cropped-image{
+  width: 100%!important;
+  height: 600px!important;
+  object-fit: cover!important;
+  object-position: center;
+  display: block;
+  overflow: hidden;
+}
+/* Pagination Section */
+.pagination{
+  display: inline-block;
+  margin-bottom: 50px;
+  text-align: center;
+  display: block;
+}
+.pagination a{
+  background: #fff;
+  color: #050100;
+  padding: 10px 18px;
+  border: none;
+  margin: 0 8px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.pagination a.active{
+  background-color: #050100;
+  color: #fff;
+  border: 1px solid #fff;
 }
 /* Footer Section */
 .footer {
