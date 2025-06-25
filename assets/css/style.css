@@ -52,18 +52,18 @@ body {
 .location-icon {
   margin-right: 9px;
 }
-.hamburger{
+.hamburger {
   display: none;
   flex-direction: column;
   cursor: pointer;
 }
-.hamburger span{
+.hamburger span {
   width: 25px;
   height: 2px;
   background: #fff;
   margin: 5px 0;
 }
-.overlay{
+.overlay {
   position: fixed;
   top: 0;
   left: 0;
@@ -73,7 +73,7 @@ body {
   display: none;
   background: rgba(0, 0, 0, 0.5);
 }
-.overlay.active{
+.overlay.active {
   display: block;
 }
 /* Hero Section */
@@ -105,6 +105,9 @@ body {
   background: rgba(52, 73, 94, 0.4);
   z-index: -1;
 }
+.hero-content{
+  margin: 0 20px;
+}
 .hero-content h2 {
   font-size: 45px;
   margin-bottom: 10px;
@@ -116,7 +119,7 @@ body {
   max-width: 700px;
 }
 /* Mobile Menu */
-.mobile-sidebar{
+.mobile-sidebar {
   position: fixed;
   padding: 20px;
   z-index: 999;
@@ -126,31 +129,31 @@ body {
   background: #240303;
   top: 0;
 }
-.mobile-header{
+.mobile-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 10px;
   border-bottom: 1px solid #f6f6f6;
 }
-.mobile-logo img{
+.mobile-logo img {
   margin-bottom: 10px;
 }
-.close-button{
+.close-button {
   color: #fff;
   font-size: 40px;
   cursor: pointer;
 }
-.mobile-sidebar.active{
+.mobile-sidebar.active {
   left: 0;
 }
-.mobile-sidebar-menu{
+.mobile-sidebar-menu {
   list-style: none;
 }
-.mobile-sidebar-menu li{
+.mobile-sidebar-menu li {
   margin: 10px 0;
 }
-.mobile-sidebar-menu a{
+.mobile-sidebar-menu a {
   color: #fff;
   text-decoration: none;
   font-size: 16px;
@@ -177,6 +180,7 @@ body {
   background: #fff;
   border-radius: 5px;
   padding: 15px;
+  margin: 0 15px;
 }
 .special-menu-item img {
   width: 100%;
@@ -335,16 +339,21 @@ body {
   border: none;
   margin-top: 15px;
 }
-@media(max-width: 768px){
-  .nav-menu{
+@media (max-width: 768px) {
+  .nav-menu {
     display: none;
   }
-  .hamburger{
+  .hamburger {
     display: flex;
     margin-right: 25px;
-  } 
-  .location{
+  }
+  .location {
     display: none;
   }
+  .cta-grid{
+    display: block;
+  }
+  .cta-section{
+    padding: 0 20px;
+  }
 }
-
