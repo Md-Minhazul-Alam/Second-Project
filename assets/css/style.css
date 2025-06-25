@@ -126,6 +126,21 @@ body {
   background: #240303;
   top: 0;
 }
+.mobile-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #f6f6f6;
+}
+.mobile-logo img{
+  margin-bottom: 10px;
+}
+.close-button{
+  color: #fff;
+  font-size: 40px;
+  cursor: pointer;
+}
 .mobile-sidebar.active{
   left: 0;
 }
@@ -326,6 +341,10 @@ body {
   }
   .hamburger{
     display: flex;
+    margin-right: 25px;
   } 
+  .location{
+    display: none;
+  }
 }
 
