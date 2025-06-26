@@ -359,10 +359,13 @@ body {
   max-width: 500px;
   position: relative;
 }
+.model-content h3{
+  margin-top: 6px;
+}
 .close{
   color: #050100;
   float: right;
-  font-size: 35px;
+  font-size: 25px;
   cursor: pointer;
   right: 20px;
   top: 20px;
