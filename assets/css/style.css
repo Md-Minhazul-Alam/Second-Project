@@ -212,6 +212,7 @@ body {
   margin: 0 auto;
   display: block;
   bottom: 10;
+  cursor: pointer;
 }
 
 /* CTA Section */
@@ -359,8 +360,14 @@ body {
   max-width: 500px;
   position: relative;
 }
-.model-content h3{
+.delivery-options h3{
   margin-top: 6px;
+  text-decoration: none;
+  color: #050100;
+}
+.delivery-options p{
+  text-decoration: none;
+  color: #050100;
 }
 .close{
   color: #050100;
