@@ -341,7 +341,7 @@ body {
 }
 /* Order Model */
 .model{
-  /* display: none; */
+  display: none;
   position: fixed;
   z-index: 2000;
   left: 0;
