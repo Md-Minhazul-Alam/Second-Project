@@ -312,6 +312,12 @@ body {
   padding: 20px;
   border-radius: 5px;
 }
+.form-control{
+  width: 100%;
+  padding: 10px;
+  background: #fff;
+  border-radius: 5px;
+}
 /* Footer Section */
 .footer {
   background-color: #050100;
