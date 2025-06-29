@@ -306,6 +306,12 @@ body {
   color: #fff;
   border: 1px solid #fff;
 }
+/* Membership Form */
+.membership-form{
+  background: #050100;
+  padding: 20px;
+  border-radius: 5px;
+}
 /* Footer Section */
 .footer {
   background-color: #050100;

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cofee Time</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- Nav Menu -->
+    <nav class="navbar">
+      <div class="nav-container">
+        <a href="index.html">
+          <img class="logo" src="assets/image/logo.png" alt="" loading="lazy" />
+        </a>
+        <ul class="nav-menu">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="menu.html">Menu</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="membership.html">Membership</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact Us</a>
+          </li>
+        </ul>
+        <a href="location.html">
+          <div class="location">
+            <i class="fa-solid fa-location-dot location-icon"></i>
+            <span>Locations</span>
+          </div>
+        </a>
+        <div class="hamburger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </nav>
+    <div class="overlay"></div>
+    <!-- Mobile Menu -->
+    <div class="mobile-sidebar">
+      <div class="mobile-header">
+        <span class="mobile-logo">
+          <a href="index.html">
+            <img
+              class="logo"
+              src="assets/image/logo.png"
+              alt=""
+              loading="lazy"
+            />
+          </a>
+        </span>
+        <span class="close-button">&times;</span>
+      </div>
+      <ul class="mobile-sidebar-menu">
+        <li>
+          <a href="index.html">Home</a>
+        </li>
+        <li>
+          <a href="menu.html">Menu</a>
+        </li>
+        <li>
+          <a href="membership.html">Membership</a>
+        </li>
+        <li>
+          <a href="contact.html">Contact Us</a>
+        </li>
+        <li>
+          <a href="location.html">Location</a>
+        </li>
+      </ul>
+    </div>
+    <!-- Heading -->
+    <section class="heading-section">
+      <div class="heading">
+        <div class="container">
+          <h1>Be a Member</h1>
+          <p>Love our coffee? Join the Cofee Time community and enjoy exclusive perks!</p>
+        </div>
+      </div>
+    </section>
+    <!-- Membership Form -->
+    <section class="membership">
+        <div class="container">
+            <div class="membership-form">
+                <div class="form-group">
+                    <input class="form-control" type="text" placeholder="Full Name" required>
+
+                </div>
+            </div>
+        </div>
+    </section>    
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-section">
+            <a href="#"
+              ><img
+                class="footer-logo"
+                src="assets/image/logo.png"
+                alt="footer logo"
+                loading="lazy"
+            /></a>
+            <p>
+              <i class="fa-solid fa-location-dot"></i> Bagarvägen 3,
+              Upplands-Bro, Stockholm, Sweden
+            </p>
+            <p><i class="fa-solid fa-phone-volume"></i> Phone: +46737827658</p>
+            <p>
+              <i class="fa-solid fa-envelope"></i> Email:
+              minhaz.alam2014@gmail.com
+            </p>
+          </div>
+          <div class="footer-section opening-hours">
+            <h3>Opening Hours</h3>
+            <p>Tuesday - Sunday: 10:00-22:00</p>
+            <p>24 Hours online order</p>
+          </div>
+          <div class="footer-section membership">
+            <h3>Membership</h3>
+            <p>Join Cofee Time and enjoy exciting weekly offers</p>
+            <button class="membership-button">Join Cofee Time</button>
+          </div>
+        </div>
+        <p class="copyright">
+          <i class="fa-solid fa-copyright"></i> 2025 Cofee Time. All rights
+          reserved.
+        </p>
+      </div>
+    </footer>
+    <!-- Order Model -->
+    <div class="model" id="orderDeliveryModel">
+      <div class="model-content">
+        <span class="close">&times;</span>
+        <h3>Delivery Channel</h3>
+        <a
+          target="_blank"
+          href="https://www.foodora.se/en/restaurants/new/?lat=59.33136&lng=18.05911&vertical=restaurants&expedition=delivery"
+        >
+          <div class="delivery-options">
+            <img
+              src="assets/image/delivery/foodora.png"
+              alt="Foodora"
+              loading="lazy"
+            />
+            <div>
+              <h3>Foodora</h3>
+              <p>Because I Want To</p>
+            </div>
+          </div>
+        </a>
+        <a
+          target="_blank"
+          href="https://www.ubereats.com/se-en/near-me/swedish?srsltid=AfmBOop0rTXARL3A_8O5abb3RfRHpPD2G9qhGZrXvl5W0bqhDQJgFtFm"
+        >
+          <div class="delivery-options">
+            <img
+              src="assets/image/delivery/uber-eats.png"
+              alt="Uber-Eats"
+              loading="lazy"
+            />
+            <div>
+              <h3>Uber Eats</h3>
+              <p>Get Almost Almost Anything</p>
+            </div>
+          </div>
+        </a>
+        <a
+          target="_blank"
+          href="https://wolt.com/en/swe?srsltid=AfmBOorcWEvtXajJRU8A8BJLyust3aRuq3iBSYue5aP2sp6STjThlEVo"
+        >
+          <div class="delivery-options">
+            <img
+              src="assets/image/delivery/wolt.png"
+              alt="Wolt"
+              loading="lazy"
+            />
+            <div>
+              <h3>Wolt</h3>
+              <p>Why don't we just Wolt?</p>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/script.js"></script>
+  </body>
+</html>
