@@ -424,6 +424,33 @@ body {
   height: 100%;
   border: 0;
 }
+/* Our Locations */
+.our-locations{
+  background: #17202a;
+  margin: 80px 0;
+}
+.our-locations-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 30px;
+}
+.location-card{
+  background: #050100;
+  border-radius: 10px;
+  padding: 50px 20px;
+  color: #fff;
+  text-align: center;
+  overflow: hidden;
+  border: 1px solid #fff;
+}
+.location-details h3{
+  font-size: 22px;
+  margin-bottom: 12px;
+}
+.location-details p{
+  font-size: 16px;
+  margin-bottom: 10px;
+}
 /* Footer Section */
 .footer {
   background-color: #050100;
