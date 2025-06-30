@@ -266,7 +266,7 @@ body {
   margin-top: 90px;
   padding: 60px 0;
 }
-.heading{
+.heading {
   padding: 10px;
 }
 .heading h1 {
@@ -310,58 +310,58 @@ body {
   border: 1px solid #fff;
 }
 /* Membership Form */
-.success-text{
+.success-text {
   background: green;
   padding: 20px;
   max-width: 800px;
   margin: 20px auto;
   border-radius: 5px;
 }
-.success-text p{
+.success-text p {
   color: #fff;
   font-size: 16px;
   font-weight: 700;
 }
-.membership-section{
+.membership-section {
   padding: 60px 0;
 }
-.membership-form{
+.membership-form {
   background: #050100;
   padding: 20px;
   border-radius: 5px;
   max-width: 800px;
   margin: auto;
 }
-.membership-form input{
+.membership-form input {
   width: 100%;
   padding: 15px;
   margin-bottom: 10px;
   border: 1px solid #17202a;
   border-radius: 5px;
-  box-sizing: border-box; 
+  box-sizing: border-box;
   font-size: 14px;
 }
-.membership-form textarea{
+.membership-form textarea {
   width: 100%;
   padding: 15px;
   margin-bottom: 10px;
   border: 1px solid #17202a;
   border-radius: 5px;
-  box-sizing: border-box; 
+  box-sizing: border-box;
   font-size: 14px;
 }
-.checkbox{
+.checkbox {
   text-align: left;
   margin-top: 20px;
   font-size: 16px;
   color: #fff;
 }
-.checkbox input[type="checkbox"]{
+.checkbox input[type="checkbox"] {
   margin-right: 10px;
   transform: scale(1.2);
   width: auto;
 }
-.membership-submit-button{
+.membership-submit-button {
   padding: 15px;
   background: #fff;
   width: 100%;
@@ -372,35 +372,35 @@ body {
 }
 
 /* Contact Us Form */
-.contact-section{
+.contact-section {
   padding: 60px 0;
 }
-.contact-form{
+.contact-form {
   background: #050100;
   padding: 20px;
   border-radius: 5px;
   max-width: 800px;
   margin: auto;
 }
-.contact-form input{
+.contact-form input {
   width: 100%;
   padding: 15px;
   margin-bottom: 10px;
   border: 1px solid #17202a;
   border-radius: 5px;
-  box-sizing: border-box; 
+  box-sizing: border-box;
   font-size: 14px;
 }
-.contact-form textarea{
+.contact-form textarea {
   width: 100%;
   padding: 15px;
   margin-bottom: 10px;
   border: 1px solid #17202a;
   border-radius: 5px;
-  box-sizing: border-box; 
+  box-sizing: border-box;
   font-size: 14px;
 }
-.contact-submit-button{
+.contact-submit-button {
   padding: 15px;
   background: #fff;
   width: 100%;
@@ -410,13 +410,13 @@ body {
   cursor: pointer;
 }
 /* Google Map */
-.map-container{
+.map-container {
   position: relative;
   padding-bottom: 25%;
   height: 0;
   overflow: hidden;
 }
-.map-container iframe{
+.map-container iframe {
   position: absolute;
   top: 0;
   left: 0;
@@ -425,16 +425,16 @@ body {
   border: 0;
 }
 /* Our Locations */
-.our-locations{
+.our-locations {
   background: #17202a;
   margin: 80px 0;
 }
-.our-locations-grid{
+.our-locations-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 30px;
 }
-.location-card{
+.location-card {
   background: #050100;
   border-radius: 10px;
   padding: 50px 20px;
@@ -443,11 +443,11 @@ body {
   overflow: hidden;
   border: 1px solid #fff;
 }
-.location-details h3{
+.location-details h3 {
   font-size: 22px;
   margin-bottom: 12px;
 }
-.location-details p{
+.location-details p {
   font-size: 16px;
   margin-bottom: 10px;
 }
@@ -558,13 +558,16 @@ body {
   .cta-section {
     padding: 0 20px;
   }
-  .membership-form{
+  .membership-form {
     margin: 10px;
   }
-  .success-text{
+  .success-text {
     margin: 10px;
   }
-  .contact-form{
+  .contact-form {
     margin: 10px;
+  }
+  .location-card{
+    margin: 15px;
   }
 }
