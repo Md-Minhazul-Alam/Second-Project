@@ -266,8 +266,11 @@ body {
   margin-top: 90px;
   padding: 60px 0;
 }
+.heading{
+  padding: 10px;
+}
 .heading h1 {
-  font-size: 60px;
+  font-size: 50px;
 }
 .heading p {
   font-size: 18px;
@@ -310,9 +313,9 @@ body {
 .success-text{
   background: green;
   padding: 20px;
-  padding-bottom: 20px;
   max-width: 800px;
-  margin: auto;
+  margin: 20px auto;
+  border-radius: 5px;
 }
 .success-text p{
   color: #fff;
@@ -473,5 +476,11 @@ body {
   }
   .cta-section {
     padding: 0 20px;
+  }
+  .membership-form{
+    margin: 10px;
+  }
+  .success-text{
+    margin: 10px;
   }
 }
