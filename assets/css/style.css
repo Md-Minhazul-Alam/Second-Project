@@ -49,6 +49,9 @@ body {
   color: #fff;
   margin-left: 10px;
 }
+.navbar a{
+  text-decoration: none;
+}
 .location-icon {
   margin-right: 9px;
 }
@@ -128,6 +131,7 @@ body {
   height: 100vh;
   background: #240303;
   top: 0;
+  transition: left 0.3s ease;
 }
 .mobile-header {
   display: flex;
@@ -248,6 +252,9 @@ body {
   font-size: 17px;
   margin-top: 40px;
 }
+.cta-right a{
+  text-decoration: none;
+}
 .cta-order-button {
   font-size: 18px;
   border-radius: 8px;
@@ -257,6 +264,7 @@ body {
   display: block;
   bottom: 10;
   margin-top: 50px;
+  cursor: pointer;
 }
 /* Menu Section */
 .heading-section {
