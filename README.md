@@ -20,7 +20,7 @@ Coffee Time
 ## Google Free Font Included. Font Name: Playfair
 
 ## Demo
-Click below the link to view the site
+Click on the link to view the site
 https://md-minhazul-alam.github.io/Second-Project/
 
 ## Tech Stack
