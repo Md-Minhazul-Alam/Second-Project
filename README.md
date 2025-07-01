@@ -16,8 +16,8 @@ Coffee Time
 - location.html
 - success.html
 - README.md
-# Font Awesome CDN Imcluded
-# Google Free Font Included. Font Name: Playfair
+## Font Awesome CDN Imcluded
+## Google Free Font Included. Font Name: Playfair
 
 ## Demo
 Click below the link to view the site
