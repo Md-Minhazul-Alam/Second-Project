@@ -1,1 +1,0 @@
-# Coffee Time HTML Templates
