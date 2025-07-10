@@ -1,5 +1,5 @@
 # Coffee Time HTML Template
-This is a static website for academic purpose for a cafe named "Coffee Time" built with HTML, CSS and jquery. This website is hosted on github pages for demonstation and assessment.
+This is a static website for academic purpose for a cafe named "Coffee Time" built with HTML, CSS, javaScript and jquery. This website is hosted on github pages for demonstation and assessment.
 
 ---
 ## Project Structure
@@ -26,6 +26,7 @@ https://md-minhazul-alam.github.io/Second-Project/
 ## Tech Stack
 - HTML5
 - CSS3
+- javaScript
 - jquery
 - GitHub (For hosting)
 

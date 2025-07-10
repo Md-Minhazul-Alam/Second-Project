@@ -10,7 +10,7 @@
       href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="icon" type="image/x-icon" href="assets/image/favicon.png">
+    <link rel="icon" type="image/x-icon" href="assets/image/favicon.png" />
     <link rel="stylesheet" href="assets/css/style.css" />
     <link
       rel="stylesheet"
@@ -273,5 +273,29 @@
 
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/script.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const hamburger = document.querySelector(".hamburger");
+        const mobileSidebar = document.querySelector(".mobile-sidebar");
+        const overlay = document.querySelector(".overlay");
+        const closeButton = document.querySelectorAll(
+          ".close-button, .overlay"
+        );
+
+        if (hamburger) {
+          hamburger.addEventListener("click", function () {
+            mobileSidebar.classList.add("active");
+            overlay.classList.add("active");
+          });
+        }
+
+        closeButton.forEach(function (el) {
+          el.addEventListener("click", function () {
+            mobileSidebar.classList.remove("active");
+            overlay.classList.remove("active");
+          });
+        });
+      });
+    </script>
   </body>
 </html>
