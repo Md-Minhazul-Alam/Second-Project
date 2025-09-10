@@ -562,6 +562,7 @@ body {
 .page-content {
   padding: 60px 20px;
   text-align: center;
+  color: #fff;
 }
 .page-content .btn {
   display: inline-block;
