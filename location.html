@@ -261,29 +261,6 @@
 
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/script.js"></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        const hamburger = document.querySelector(".hamburger");
-        const mobileSidebar = document.querySelector(".mobile-sidebar");
-        const overlay = document.querySelector(".overlay");
-        const closeButton = document.querySelectorAll(
-          ".close-button, .overlay"
-        );
-
-        if (hamburger) {
-          hamburger.addEventListener("click", function () {
-            mobileSidebar.classList.add("active");
-            overlay.classList.add("active");
-          });
-        }
-
-        closeButton.forEach(function (el) {
-          el.addEventListener("click", function () {
-            mobileSidebar.classList.remove("active");
-            overlay.classList.remove("active");
-          });
-        });
-      });
-    </script>
+    <script src="assets/js/menu.js"></script>
   </body>
 </html>
