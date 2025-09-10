@@ -558,6 +558,26 @@ body {
   margin-right: 15px;
 }
 
+/* 404 Page */
+.page-content {
+  padding: 60px 20px;
+  text-align: center;
+}
+.page-content .btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  background: #e74c3c;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.page-content .btn:hover {
+  background: #c0392b;
+}
+
 @media (max-width: 768px) {
   .nav-menu {
     display: none;
