@@ -95,7 +95,6 @@
       </div>
     </section>
     <!-- Menu -->
-    <!-- Menu -->
     <section class="special-menu">
       <div class="container">
         <div class="menu-grid" id="menuGrid"></div>
@@ -155,52 +154,38 @@
       </div>
     </footer>
     <!-- Order Model -->
-    <div class="model" id="orderDeliveryModel">
+    <div class="model" id="orderDeliveryModel" style="display:none;">
       <div class="model-content">
         <span class="close">&times;</span>
+        <div id="modalProduct" style="text-align:center; margin-bottom: 15px;">
+          <img id="modalImage" src="" alt="" style="max-width:150px; border-radius:8px;" loading="lazy" />
+          <h3 id="modalName"></h3>
+          <div id="modalPrice" style="font-weight:bold;"></div>
+          <p id="modalDescription" style="margin-top:8px; color:#555; font-size:14px;"></p> 
+        </div>
+    
         <h3>Delivery Channel</h3>
-        <a
-          target="_blank"
-          href="https://www.foodora.se/en/restaurants/new/?lat=59.33136&lng=18.05911&vertical=restaurants&expedition=delivery"
-        >
+        <a target="_blank" href="https://www.foodora.se/en/restaurants/new/?lat=59.33136&lng=18.05911&vertical=restaurants&expedition=delivery">
           <div class="delivery-options">
-            <img
-              src="assets/image/delivery/foodora.png"
-              alt="Foodora"
-              loading="lazy"
-            />
+            <img src="assets/image/delivery/foodora.png" alt="Foodora" loading="lazy" />
             <div>
               <h3>Foodora</h3>
               <p>Because I Want To</p>
             </div>
           </div>
         </a>
-        <a
-          target="_blank"
-          href="https://www.ubereats.com/se-en/near-me/swedish?srsltid=AfmBOop0rTXARL3A_8O5abb3RfRHpPD2G9qhGZrXvl5W0bqhDQJgFtFm"
-        >
+        <a target="_blank" href="https://www.ubereats.com/se-en/near-me/swedish?srsltid=AfmBOop0rTXARL3A_8O5abb3RfRHpPD2G9qhGZrXvl5W0bqhDQJgFtFm">
           <div class="delivery-options">
-            <img
-              src="assets/image/delivery/uber-eats.png"
-              alt="Uber-Eats"
-              loading="lazy"
-            />
+            <img src="assets/image/delivery/uber-eats.png" alt="Uber-Eats" loading="lazy" />
             <div>
               <h3>Uber Eats</h3>
               <p>Get Almost Almost Anything</p>
             </div>
           </div>
         </a>
-        <a
-          target="_blank"
-          href="https://wolt.com/en/swe?srsltid=AfmBOorcWEvtXajJRU8A8BJLyust3aRuq3iBSYue5aP2sp6STjThlEVo"
-        >
+        <a target="_blank" href="https://wolt.com/en/swe?srsltid=AfmBOorcWEvtXajJRU8A8BJLyust3aRuq3iBSYue5aP2sp6STjThlEVo">
           <div class="delivery-options">
-            <img
-              src="assets/image/delivery/wolt.png"
-              alt="Wolt"
-              loading="lazy"
-            />
+            <img src="assets/image/delivery/wolt.png" alt="Wolt" loading="lazy" />
             <div>
               <h3>Wolt</h3>
               <p>Why don't we just Wolt?</p>
@@ -209,32 +194,10 @@
         </a>
       </div>
     </div>
+    
 
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/script.js"></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        const hamburger = document.querySelector(".hamburger");
-        const mobileSidebar = document.querySelector(".mobile-sidebar");
-        const overlay = document.querySelector(".overlay");
-        const closeButton = document.querySelectorAll(
-          ".close-button, .overlay"
-        );
-
-        if (hamburger) {
-          hamburger.addEventListener("click", function () {
-            mobileSidebar.classList.add("active");
-            overlay.classList.add("active");
-          });
-        }
-
-        closeButton.forEach(function (el) {
-          el.addEventListener("click", function () {
-            mobileSidebar.classList.remove("active");
-            overlay.classList.remove("active");
-          });
-        });
-      });
-    </script>
+    
   </body>
 </html>
