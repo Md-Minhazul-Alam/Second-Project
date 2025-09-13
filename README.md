@@ -113,9 +113,7 @@ See [TESTING.md](TESTING.md) for full details.
 4. Live site: [Coffee Time Website](https://Md-Minhazul-Alam.github.io/Second-Project).
 
 ### Local Development
-```bash
-git clone https://github.com/Md-Minhazul-Alam/Second-Project.git
-cd Second-Project
+
 
 ---
 
