@@ -117,5 +117,37 @@ See [TESTING.md](TESTING.md) for full details.
 git clone https://github.com/Md-Minhazul-Alam/Second-Project.git
 cd Second-Project
 
+## Forking
+
+To fork the repository:
+
+1. Log in to GitHub and open the repo.  
+2. Click the **Fork** button (top-right).  
+3. This creates a copy in your GitHub account.
+
+---
+
+## Local vs Deployment
+
+There are no major differences between the local and deployed versions.
+
+---
+
+## Credits
+
+### Content
+- [Markdown Builder](https://markdown.2bn.dev) → Help generating Markdown files  
+- [ChatGPT](https://chatgpt.com) → Help with code logic and explanations  
+
+### Media
+- Images: [Pexels](https://www.pexels.com), [Lorem Picsum](https://picsum.photos), [Wallhere](https://wallhere.com)  
+- Favicon: [favicon.io](https://favicon.io)  
+- Icons: [Font Awesome](https://fontawesome.com)  
+- Hero Image: [Pexels Coffee](https://images.pexels.com)  
+
+### Acknowledgements
+- Thanks to my Code Institute mentor for guidance.  
+- Thanks to the Code Institute Tutor Team for debugging help.  
+- Thanks to the Slack community for moral support.  
 
 
