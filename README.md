@@ -1,46 +1,38 @@
-# Coffee Time HTML Template
-This is a static website for academic purpose for a cafe named "Coffee Time" built with HTML, CSS, javaScript and jquery. This website is hosted on github pages for demonstation and assessment.
+# Coffee Time Website
+
+Developer: Your Name ([Md-Minhazul-Alam](https://github.com/Md-Minhazul-Alam))  
+Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Project)
 
 ---
-## Project Structure
-Coffee Time
-- assets
-    - css (style.css)
-    - image # All images included
-        - delivery
-    - js (jquery.min.js, script.js)
-- index.html
-- menu.html
-- membership.html
-- contact.html
-- location.html
-- success.html
-- README.md
-## Font Awesome CDN Imcluded
-## Google Free Font Included. Font Name: Playfair
 
-## Demo
-Click on the link to view the site
-https://md-minhazul-alam.github.io/Second-Project/
+## UX
 
-## Tech Stack
-- HTML5
-- CSS3
-- javaScript
-- jquery
-- GitHub (For hosting)
+### Strategy
+- **Purpose**: Provide coffee lovers with an engaging way to explore the brand, menu, membership, flavour quiz, and store locations.  
+- **User Needs**: View menu, order items, join membership, discover favourite flavour, contact or find store locations.  
+- **Business Goals**: Increase membership sign-ups, improve engagement with interactive features, build brand loyalty.
 
-## Features
-- Fully responsive
-- Mobile Sidebar Navigation
-- Model PopUps for delivery options
-- Theme generated on dark mode
+### Scope
+- Responsive navigation (desktop + sidebar for mobile/tablet).  
+- Pages: Home, Menu, Membership, Flavour Finder, Contact, Locations.  
+- Interactive order modal built with JavaScript.  
 
-## License
-- This project is licensed under the "MIT License"
-- Feel free to use, modify and share for personal or learning purpose.
+### Structure
+- **Navbar**: Logo (left), nav (center), location link (right).  
+- **Hero Section**: Tagline with inspirational text.  
+- **Footer**: Logo/contact, opening hours, membership signup.  
 
-## Contact
-Md. Minhazul Alam
-email: minhaz.alam2014@gmail.com
+### Skeleton
+- **Home**: Hero, specials, CTA, footer.  
+- **Menu**: Full coffee menu with ordering modal.  
+- **Membership**: Registration form.  
+- **Flavour Finder**: Quiz with recommendations.  
+- **Contact Us**: Form + map embed.  
+- **Locations**: All store branches.  
 
+### Surface
+- **Colours**: Coffee-inspired tones (`#6f4e37`, `#f5f5dc`, `#d2691e`).  
+- **Typography**: Sans-serif body font + decorative headings.  
+- **Icons**: Font Awesome.  
+
+---
