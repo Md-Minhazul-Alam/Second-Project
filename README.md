@@ -98,3 +98,31 @@ Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Proje
   - Could: dark mode  
 
 ---
+
+## Testing
+See [TESTING.md](TESTING.md) for full details.
+
+---
+
+## Deployment
+
+### GitHub Pages
+1. Go to repo → *Settings* → *Pages*.  
+2. Select `main` branch → *Save*.  
+3. Site auto-deploys to GitHub Pages.  
+4. Live site: [Coffee Time Website](https://Md-Minhazul-Alam.github.io/Second-Project).
+
+### Local Development
+```bash
+git clone https://github.com/Md-Minhazul-Alam/Second-Project.git
+cd Second-Project
+
+
+| Source                                       | Notes                                 |
+| -------------------------------------------- | ------------------------------------- |
+| [Markdown Builder](https://markdown.2bn.dev) | Help generating Markdown files        |
+| [ChatGPT](https://chatgpt.com)               | Help with code logic and explanations |
+
+
+
+
