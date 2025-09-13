@@ -118,11 +118,4 @@ git clone https://github.com/Md-Minhazul-Alam/Second-Project.git
 cd Second-Project
 
 
-| Source                                       | Notes                                 |
-| -------------------------------------------- | ------------------------------------- |
-| [Markdown Builder](https://markdown.2bn.dev) | Help generating Markdown files        |
-| [ChatGPT](https://chatgpt.com)               | Help with code logic and explanations |
-
-
-
 
