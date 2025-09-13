@@ -3,6 +3,9 @@
 Developer: Your Name ([Md-Minhazul-Alam](https://github.com/Md-Minhazul-Alam))  
 Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Project)
 
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/yourusername/coffee-time-website)](https://github.com/Md-Minhazul-Alam/Second-Project)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/coffee-time-website)](https://github.com/Md-Minhazul-Alam/Second-Project)  
+[![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/coffee-time-website)](https://github.com/Md-Minhazul-Alam/Second-Project)
 ---
 
 ## UX
