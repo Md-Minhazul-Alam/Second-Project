@@ -40,3 +40,61 @@ Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Proje
 - **Icons**: Font Awesome.  
 
 ---
+
+## Wireframes / Screenshots
+
+
+---
+
+## User Stories
+| Target | Expectation | Outcome |
+| --- | --- | --- |
+| Visitor | See hero tagline | Understand brand vision |
+| Customer | Order specials quickly | Place order via modal |
+| User | Join membership | Access loyalty benefits |
+| User | Use Flavour Finder | Discover favourite flavour |
+| Visitor | View store locations | Find nearest branch |
+| User | Responsive sidebar nav | Smooth mobile experience |
+
+---
+
+## Features
+
+### Existing
+- Responsive navbar with sidebar on mobile/tablet.  
+- Hero section with tagline: *“Where Every Cup Feels Like Home”*.  
+- Specials menu with **Order Now modal** (via delivery partners).  
+- CTA section: *Get Your Free Refills*.  
+- Footer with logo/contact, opening hours, membership signup.  
+- Menu page with ordering modal.  
+- Membership form (name, email, phone, date, favourite drink).  
+- Flavour Finder quiz.  
+- Contact page with form + Google Map.  
+- Locations page with branch details.  
+
+### Future
+- Dark and White mode toggle.  
+- Theme customization.  
+- Loyalty card integration.  
+- Full backend ordering system.  
+
+---
+
+## Tools & Technologies
+- **HTML** – content structure  
+- **CSS** – styling & layout  
+- **JavaScript** – interactivity, modal, quiz  
+- **Git/GitHub** – version control & repo hosting  
+- **VSCode** – IDE  
+- **GitHub Pages** – deployment  
+
+---
+
+## Agile Development
+- **GitHub Issues** used to track tasks.  
+- **MoSCoW Prioritization**:  
+  - Must: responsive navbar, order modal, flavour quiz  
+  - Should: membership form  
+  - Could: dark mode  
+
+---
