@@ -42,7 +42,14 @@ Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Proje
 ---
 
 ## Wireframes / Screenshots
-
+| Page | Desktop | Mobile | Tablet |
+| --- | --- | --- | --- |
+| Home | ![](/assets/image/screenshot/home-desk.png) | ![](/assets/image/screenshot/home-mob.png) | ![](/assets/image/screenshot/home-tab.png) |
+| Menu | ![](/assets/image/screenshot/menu-desk.png) | ![](/assets/image/screenshot/menu-mob.png) | ![](/assets/image/screenshot/menu-tab.png) |
+| Membership | ![](/assets/image/screenshot/membership-desk.png) | ![](/assets/image/screenshot/membership-mob.png) | ![](/assets/image/screenshot/membership-tab.png) |
+| Flavour Finder | ![](/assets/image/screenshot/flavour-desk.png) | ![](/assets/image/screenshot/flavour-mob.png) | ![](/assets/image/screenshot/flavour-tab.png) |
+| Contact | ![](/assets/image/screenshot/contact-desk.png) | ![](/assets/image/screenshot/contact-mob.png) | ![](/assets/image/screenshot/contact-tab.png) |
+| Locations | ![](/assets/image/screenshot/location-desk.png) | ![](/assets/image/screenshot/location-mob.png) | ![](/assets/image/screenshot/location-tab.png) |
 
 ---
 
