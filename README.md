@@ -69,7 +69,7 @@ Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Proje
 
 | Feature | Notes | Screenshot |
 | --- | --- | --- |
-| Navbar | Adaptive navbar: left logo, center main navigation, right location menu. Sidebar opens on mobile/tablet for smooth navigation. | ![Navbar Desktop](/assets/image/screenshot/navbar-desktop.png) ![Navbar Mobile](/assets/image/screenshot/navbar-mobile.png) |
+| Navbar | Adaptive navbar: left logo, center main navigation, right location menu. Sidebar opens on mobile/tablet for smooth navigation. | ![Navbar Desktop](/assets/image/screenshot/navbar-desktop.png) &nbsp;&nbsp; ![Navbar Mobile](/assets/image/screenshot/navbar-mobile.png) |
 | Hero Section | Business motto and hero image with coffee-themed background to create a welcoming first impression. | ![Hero](/assets/image/screenshot/hero.png) |
 | Special Menu | Highlights 3 special menu items; "Order Now" buttons open a JavaScript modal for ordering through delivery services. | ![Special Menu](/assets/image/screenshot/special-menu.png) |
 | CTA Section | Call-to-action: *"Get Your Free Refills"* inviting users to order and enjoy refills in the café. | ![CTA](/assets/image/screenshot/cta.png) |
@@ -79,6 +79,8 @@ Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Proje
 | Flavour Finder | Small quiz allowing users to answer questions and get coffee flavor recommendations based on their preferences. | ![Flavour Finder](/assets/image/screenshot/flavour-finder.png) |
 | Contact Page | Simple contact form with embedded map showing business location. | ![Contact](/assets/image/screenshot/contact.png) |
 | Locations Page | Displays all store locations with easy navigation from navbar right menu. | ![Locations](/assets/image/screenshot/locations.png) |
+| 404 Page | Custom 404 page displayed when a user navigates to a non-existent route. | ![404 Page](/assets/image/screenshot/404.png) |
+
 
 ### Existing
 - Responsive navbar with sidebar on mobile/tablet.  
