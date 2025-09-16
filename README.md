@@ -67,6 +67,19 @@ Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Proje
 
 ## Features
 
+| Feature | Notes | Screenshot |
+| --- | --- | --- |
+| Navbar | Adaptive navbar: left logo, center main navigation, right location menu. Sidebar opens on mobile/tablet for smooth navigation. | ![Navbar Desktop](/assets/image/screenshot/navbar-desktop.png) ![Navbar Mobile](/assets/image/screenshot/navbar-mobile.png) |
+| Hero Section | Business motto and hero image with coffee-themed background to create a welcoming first impression. | ![Hero](/assets/image/screenshot/hero.png) |
+| Special Menu | Highlights 3 special menu items; "Order Now" buttons open a JavaScript modal for ordering through delivery services. | ![Special Menu](/assets/image/screenshot/special-menu.png) |
+| CTA Section | Call-to-action: *"Get Your Free Refills"* inviting users to order and enjoy refills in the café. | ![CTA](/assets/image/screenshot/cta.png) |
+| Footer | Three sections: left (logo, address, phone, email), center (opening hours), right (membership signup). Includes copyright. | ![Footer](/assets/image/screenshot/footer.png) |
+| Menu Page | Full menu page with all items and "Order Now" modal functionality. Responsive layout with sidebar navigation on mobile/tablet. | ![Menu](/assets/image/screenshot/menu.png) |
+| Membership Page | Registration form with full name, email, mobile number, birth date, and favorite drink to join Coffee Time membership program. | ![Membership](/assets/image/screenshot/membership.png) |
+| Flavour Finder | Small quiz allowing users to answer questions and get coffee flavor recommendations based on their preferences. | ![Flavour Finder](/assets/image/screenshot/flavour-finder.png) |
+| Contact Page | Simple contact form with embedded map showing business location. | ![Contact](/assets/image/screenshot/contact.png) |
+| Locations Page | Displays all store locations with easy navigation from navbar right menu. | ![Locations](/assets/image/screenshot/locations.png) |
+
 ### Existing
 - Responsive navbar with sidebar on mobile/tablet.  
 - Hero section with tagline: *“Where Every Cup Feels Like Home”*.  
