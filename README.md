@@ -50,7 +50,7 @@ Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Proje
 | Flavour Finder | ![](/assets/image/screenshot/flavour-desk.png) | ![](/assets/image/screenshot/flavour-mob.png) | ![](/assets/image/screenshot/flavour-tab.png) |
 | Contact | ![](/assets/image/screenshot/contact-desk.png) | ![](/assets/image/screenshot/contact-mob.png) | ![](/assets/image/screenshot/contact-tab.png) |
 | Locations | ![](/assets/image/screenshot/location-desk.png) | ![](/assets/image/screenshot/location-mob.png) | ![](/assets/image/screenshot/location-tab.png) |
-| 404 Page | ![](/assets/image/screenshot/404-desk.png) | ![](/assets/image/screenshot/404-mob.png) | ![](/assets/image/screenshot/404-tab.png) |
+| 404 Page | ![](/assets/image/screenshot/404-desktop.png) | ![](/assets/image/screenshot/404-mob.png) | ![](/assets/image/screenshot/404-tab.png) |
 
 ---
 
