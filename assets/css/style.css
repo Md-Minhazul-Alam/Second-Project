@@ -397,6 +397,12 @@ body {
     padding: 60px 0;
 }
 
+.membership-section h2 {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 35px;
+}
+
 .membership-form {
     background: #050100;
     padding: 20px;
