@@ -505,6 +505,12 @@ body {
     overflow: hidden;
 }
 
+.map-section h2 {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
 .map-container iframe {
     position: absolute;
     top: 0;
