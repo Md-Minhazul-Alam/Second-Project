@@ -36,7 +36,7 @@ specialMenuItems.forEach((item, index) => {
   const menuItem = document.createElement("div");
   menuItem.classList.add("special-menu-item");
   menuItem.innerHTML = `
-    <img src="${item.image}" alt="${item.name}" loading="lazy" />
+    <img src="${item.image}" alt="${item.name}" loading="lazy">
     <h4>${item.name}</h4>
     <p>${item.description}</p>
     <div class="special-menu-item-price">€${item.price.toFixed(2)}</div>
