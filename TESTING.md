@@ -59,7 +59,7 @@ Tested on multiple browsers for compatibility.
 | Navigation bar | Works across all devices and pages | Clicked all links on desktop, mobile, tablet | Functional and consistent | ![Navbar Desktop](/assets/image/screenshot/navbar-desktop.png) ![Navbar Mobile](/assets/image/screenshot/navbar-mobile.png) |
 | Membership Form | Prevents empty/invalid inputs | Tried empty form and invalid email | Blocked submission with error prompts | ![](/assets/image/testing/form-validate.png) |
 | Flavour Finder | Should return a flavor suggestion | Completed quiz with sample answers | Displayed correct recommendation | ![](/assets/image/testing/flavour-test.png) |
-| Responsive Layout | Content adapts to device size | Resized window, tested mobile + tablet | Layout smooth, no overlap | ![](/assets/image/testing/responsive-test.png) |
+| Responsive Layout | Content adapts to device size | Resized window, tested mobile + tablet | Layout smooth, no overlap | ![Navbar Desktop](/assets/image/screenshot/home-desk.png) ![Navbar Mob](/assets/image/screenshot/home-mob.png) ![Navbar tab](/assets/image/screenshot/home-tab.png) |
 | External Links | Should open securely in new tab | Clicked external credits links | Opened as expected | ![](/assets/image/testing/external-link.png) |
 
 ---
