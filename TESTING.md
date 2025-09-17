@@ -52,6 +52,18 @@ Tested on multiple browsers for compatibility.
 
 
 
+## Defensive Programming
+
+| Feature | Expectation | Test | Result | Screenshot |
+| --- | --- | --- | --- | --- |
+| Navigation bar | Works across all devices and pages | Clicked all links on desktop, mobile, tablet | Functional and consistent | ![](/assets/image/testing/nav-test.png) |
+| Membership Form | Prevents empty/invalid inputs | Tried empty form and invalid email | Blocked submission with error prompts | ![](/assets/image/testing/form-validate.png) |
+| Flavour Finder | Should return a flavor suggestion | Completed quiz with sample answers | Displayed correct recommendation | ![](/assets/image/testing/flavour-test.png) |
+| Responsive Layout | Content adapts to device size | Resized window, tested mobile + tablet | Layout smooth, no overlap | ![](/assets/image/testing/responsive-test.png) |
+| External Links | Should open securely in new tab | Clicked external credits links | Opened as expected | ![](/assets/image/testing/external-link.png) |
+
+---
+
 ## User Story Testing
 
 | User Story | Expectation | Outcome | Screenshot |
