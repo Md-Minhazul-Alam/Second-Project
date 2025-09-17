@@ -9,6 +9,16 @@
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
+| Page | URL | Screenshot | Notes |
+| --- | --- | --- | --- |
+| Home | [index.html](https://md-minhazul-alam.github.io/Second-Project) | ![](/assets/image/testing/html-validate-home.png) | Passed |
+| Menu | [menu.html](https://md-minhazul-alam.github.io/Second-Project/menu) | ![](/assets/image/testing/html-validate-menu.png) | Passed |
+| Membership | [membership.html](https://md-minhazul-alam.github.io/Second-Project/membership) | ![](/assets/image/testing/html-validate-membership.png) | Passed |
+| Flavour Finder | [flavour.html](https://md-minhazul-alam.github.io/Second-Project/flavour) | ![](/assets/image/testing/html-validate-flavour.png) | Passed |
+| Contact | [contact.html](https://md-minhazul-alam.github.io/Second-Project/contact) | ![](/assets/image/testing/html-validate-contact.png) | Passed |
+| Locations | [locations.html](https://md-minhazul-alam.github.io/Second-Project/locations) | ![](/assets/image/testing/html-validate-locations.png) | Passed |
+| 404 Page | [404.html](https://md-minhazul-alam.github.io/Second-Project/404) | ![](/assets/image/testing/html-validate-404.png) | Passed |
+
 ---
 
 ### CSS
