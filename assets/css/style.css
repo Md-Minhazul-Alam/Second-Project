@@ -460,7 +460,9 @@ body {
 }
 
 .contact-section h2{
-    margin-bottom: 30px
+    margin-bottom: 30px;
+    text-align: center;
+    color: #fff;
 }
 
 .contact-form {
