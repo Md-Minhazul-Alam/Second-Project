@@ -570,6 +570,10 @@ body {
     font-size: 18px;
 }
 
+.footer-section membership p {
+    margin-bottom: 25px
+}
+
 .membership-button {
     padding: 10px 15px;
     background-color: #fff;
@@ -578,6 +582,7 @@ body {
     border: none;
     margin-top: 15px;
     cursor: pointer;
+    text-decoration: none;
 }
 
 /* Order Model */
