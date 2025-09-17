@@ -50,7 +50,21 @@ I've tested my deployed project for responsiveness issues on different devices.
 
 Tested on multiple browsers for compatibility.
 
+## Lighthouse Audit
 
+Checked performance and accessibility using Lighthouse.
+
+| Page | Mobile | Desktop |
+| --- | --- | --- |
+| Home | ![](/assets/image/testing/lighthouse-home-mob.png) | ![](/assets/image/testing/lighthouse-home-desk.png) |
+| Menu | ![](/assets/image/testing/lighthouse-menu-mob.png) | ![](/assets/image/testing/lighthouse-menu-desk.png) |
+| Membership | ![](/assets/image/testing/lighthouse-membership-mob.png) | ![](/assets/image/testing/lighthouse-membership-desk.png) |
+| Flavour Finder | ![](/assets/image/testing/lighthouse-flavour-mob.png) | ![](/assets/image/testing/lighthouse-flavour-desk.png) |
+| Contact | ![](/assets/image/testing/lighthouse-contact-mob.png) | ![](/assets/image/testing/lighthouse-contact-desk.png) |
+| Locations | ![](/assets/image/testing/lighthouse-location-mob.png) | ![](/assets/image/testing/lighthouse-location-desk.png) |
+| 404 Page | ![](/assets/image/testing/lighthouse-404-mob.png) | ![](/assets/image/testing/lighthouse-404-desk.png) |
+
+---
 
 ## Defensive Programming
 
