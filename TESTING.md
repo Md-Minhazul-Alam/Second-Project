@@ -50,6 +50,18 @@ I've tested my deployed project for responsiveness issues on different devices.
 
 Tested on multiple browsers for compatibility.
 
+| Page | Chrome | Firefox | Safari | Notes |
+| --- | --- | --- | --- | --- |
+| Home | ![](/assets/image/testing/chrome-home.png) | ![](/assets/image/testing/firefox-home.png) | ![](/assets/image/testing/safari-home.png) | Works as expected |
+| Menu | ![](/assets/image/testing/chrome-menu.png) | ![](/assets/image/testing/firefox-menu.png) | ![](/assets/image/testing/safari-menu.png) | Works as expected |
+| Membership | ![](/assets/image/testing/chrome-membership.png) | ![](/assets/image/testing/firefox-membership.png) | ![](/assets/image/testing/safari-membership.png) | Works as expected |
+| Flavour Finder | ![](/assets/image/testing/chrome-flavour.png) | ![](/assets/image/testing/firefox-flavour.png) | ![](/assets/image/testing/safari-flavour.png) | Works as expected |
+| Contact | ![](/assets/image/testing/chrome-contact.png) | ![](/assets/image/testing/firefox-contact.png) | ![](/assets/image/testing/safari-contact.png) | Works as expected |
+| Locations | ![](/assets/image/testing/chrome-locations.png) | ![](/assets/image/testing/firefox-locations.png) | ![](/assets/image/testing/safari-locations.png) | Works as expected |
+| 404 Page | ![](/assets/image/testing/chrome-404.png) | ![](/assets/image/testing/firefox-404.png) | ![](/assets/image/testing/safari-404.png) | Works as expected |
+
+---
+
 ## Lighthouse Audit
 
 Checked performance and accessibility using Lighthouse.
