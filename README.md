@@ -169,9 +169,8 @@ There are no major differences between the local and deployed versions.
 
 ### Media
 - Images: [Pexels](https://www.pexels.com), [Lorem Picsum](https://picsum.photos), [Wallhere](https://wallhere.com)  
-- Favicon: [favicon.io](https://favicon.io)  
+- Favicon: Collected from Google  
 - Icons: [Font Awesome](https://fontawesome.com)  
-- Hero Image: [Pexels Coffee](https://images.pexels.com)  
 
 ### Acknowledgements
 - Thanks to my Code Institute mentor for guidance.  
