@@ -30,6 +30,21 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | style.css | ![](/assets/image/testing/css-validate-style.png) | Passed |
 
 ---
+
+### JavaScript  
+
+I have used the recommended [JSHint Validator](https://jshint.com/) to validate all of my JavaScript files and inline scripts.  
+
+| File / Script | Screenshot | Notes |
+| --- | --- | --- |
+| **menu.js** (mobile responsive) | ![](/assets/image/testing/jshint-menu.png) | Passed |
+| **script.js** (to show all menus script) | ![](/assets/image/testing/jshint-script.png) | Passed |
+| **special.js** (special menu functionality) | ![](/assets/image/testing/jshint-special.png) | Passed |
+| **membership page inline script** | ![](/assets/image/testing/jshint-membership.png) | Passed |
+| **contact page inline script** | ![](/assets/image/testing/jshint-contact.png) | Passed |
+
+---
+
 ## Responsiveness
 
 I've tested my deployed project for responsiveness issues on different devices.
