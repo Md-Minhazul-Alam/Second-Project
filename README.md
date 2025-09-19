@@ -114,11 +114,16 @@ Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Proje
 ---
 
 ## Agile Development
+
 - **GitHub Issues** used to track tasks.  
 - **MoSCoW Prioritization**:  
-  - Must: responsive navbar, order modal, flavour quiz  
+  - Must: responsive navbar, order modal, flavor quiz  
   - Should: membership form  
   - Could: dark mode  
+
+| Screenshot | Notes |
+| --- | --- |
+| ![](/assets/image/testing/agile-development.png) | Agile workflow and task tracking overview |
 
 ---
 
