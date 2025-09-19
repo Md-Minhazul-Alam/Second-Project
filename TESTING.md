@@ -146,8 +146,10 @@ Checked performance and accessibility using Lighthouse.
 ---
 
 ### Known Issues
+
 - None at this time.  
-- Thorough testing has been carried out, but some minor bugs may still exist.
+- Thorough testing has been carried out, but some minor bugs may still exist.  
+- Some images used across the site are not fully optimized for web performance, which may impact loading speed and Lighthouse performance scores.
 
 > [!IMPORTANT]
 > All major bugs have been fixed. No remaining issues are currently known.
