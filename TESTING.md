@@ -40,6 +40,7 @@ I have used the recommended [JSHint Validator](https://jshint.com/) to validate 
 | **menu.js** (mobile responsive) | ![](/assets/image/testing/jshint-menu.png) | Passed |
 | **script.js** (to show all menus script) | ![](/assets/image/testing/jshint-menu.png) | Passed |
 | **special.js** (special menu functionality) | ![](/assets/image/testing/jshint-special.png) | Passed |
+| **Flavor Finder page script** | ![](/assets/image/testing/jshint-flavour.png) | Passed |
 | **membership page inline script** | ![](/assets/image/testing/jshint-membership-submit.png) | Passed |
 | **contact page inline script** | ![](/assets/image/testing/jshint-contact-submit.png) | Passed |
 
