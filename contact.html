@@ -104,7 +104,10 @@
     <section class="contact-section">
       <div class="container">
         <h2>Contact form</h2>
-        <form action="index.html" method="post">
+        <div id="successMessage" style="display:none; text-align:center; margin-top:20px; color: #28a745; margin-bottom: 10px">
+          Thank you! Your message has been sent. We’ll get back to you soon.
+        </div>
+        <form id="contactpForm">
           <div class="contact-form">
             <div class="form-group">
               <label for="contactFullName">Full Name</label>
@@ -269,5 +272,15 @@
 
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/menu.js"></script>
+    <script>
+      const form = document.getElementById("contactForm");
+      const successMessage = document.getElementById("successMessage");
+    
+      form.addEventListener("submit", (e) => {
+        e.preventDefault();         
+        successMessage.style.display = "block"; 
+        form.reset();  
+      });
+    </script>
   </body>
 </html>
