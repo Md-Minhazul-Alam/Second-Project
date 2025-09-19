@@ -107,7 +107,7 @@
     <section class="membership-section">
       <div class="container">
         <h2>Membership Form</h2>
-        <div id="successMessage" style="display:none; text-align:center; margin-top:20px;">
+        <div id="successMessage" style="display:none; text-align:center; margin-top:20px; color: #fff, margin-bottom: 10px">
           Thank you for joining Coffee Time! We’ve received your membership form.
         </div>
         <form action="" method="post" id="membershipForm">
@@ -293,9 +293,9 @@
       const successMessage = document.getElementById("successMessage");
     
       form.addEventListener("submit", (e) => {
-        e.preventDefault();
-        form.style.display = "block";
-        successMessage.style.display = "block";
+        e.preventDefault();              
+        successMessage.style.display = "block"; 
+        form.reset(); 
       });
     </script>
   </body>
