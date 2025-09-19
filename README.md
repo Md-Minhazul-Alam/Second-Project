@@ -35,9 +35,10 @@ Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Proje
 - **Locations**: All store branches.  
 
 ### Surface
-- **Colours**: Coffee-inspired tones (`#6f4e37`, `#f5f5dc`, `#d2691e`).  
-- **Typography**: Sans-serif body font + decorative headings.  
-- **Icons**: Font Awesome.  
+
+- **Colours**: Coffee-inspired tones (`#240303`, `#050100`, `#17202a`).  
+- **Typography**: `"Playfair Display", serif` for headings to give a stylish, coffee-shop look; sans-serif for body text.  
+- **Icons**: Font Awesome.
 
 ---
 
