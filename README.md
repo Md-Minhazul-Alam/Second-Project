@@ -169,7 +169,7 @@ There are no major differences between the local and deployed versions.
 - [ChatGPT](https://chatgpt.com) → Help with code logic and explanations  
 
 ### Media
-- Images: [Pexels](https://www.pexels.com), [Lorem Picsum](https://picsum.photos), [Wallhere](https://wallhere.com)  
+- Images: [Pexels](https://www.pexels.com), [Starbucks](https://www.starbucks.com)  
 - Favicon: Collected from Google  
 - Icons: [Font Awesome](https://fontawesome.com)  
 
