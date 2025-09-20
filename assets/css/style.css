@@ -355,30 +355,6 @@ body {
     overflow: hidden;
 }
 
-/* Pagination Section */
-.pagination {
-    display: inline-block;
-    margin-bottom: 50px;
-    text-align: center;
-    display: block;
-}
-
-.pagination a {
-    background: #fff;
-    color: #050100;
-    padding: 10px 18px;
-    border: none;
-    margin: 0 8px;
-    border-radius: 5px;
-    text-decoration: none;
-}
-
-.pagination a.active {
-    background-color: #050100;
-    color: #fff;
-    border: 1px solid #fff;
-}
-
 /* Membership Form */
 .success-text {
     background: green;
