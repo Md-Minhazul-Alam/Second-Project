@@ -1,6 +1,6 @@
 # Coffee Time Website
 
-Developer: Your Name ([Md-Minhazul-Alam](https://github.com/Md-Minhazul-Alam))  
+Developer: Md Minhazul Alam ([Md-Minhazul-Alam](https://github.com/Md-Minhazul-Alam))  
 Live Site: [Coffee Time Website](https://md-minhazul-alam.github.io/Second-Project)
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Md-Minhazul-Alam/Second-Project)](https://github.com/Md-Minhazul-Alam/Second-Project/commits/main)  
